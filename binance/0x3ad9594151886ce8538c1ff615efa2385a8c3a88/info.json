@@ -1,1 +1,16 @@
-
+{
+    "name": "SAFEMARS",
+    "website": "https://www.safemarscrypto.com/",
+    "telegram": "https://t.me/safemars/",
+    "instagram": "https://www.instagram.com/safe_mars/",
+    "twitter": "https://twitter.com/safemartians/",
+    "description": "This will be updated",
+    "explorer": "https://explorer.bitquery.io/bsc/token/0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+    "type": "BEP20",
+    "symbol": "SAFEMARS",
+    "decimals": 9,
+    "slippage": 5,
+    "status": "active",
+		"thandle": "safemartians",
+    "id": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88"
+}
