@@ -1,8 +1,8 @@
-# BullTools Token List
-## A data-rich token list powered by BullTools !
+# PokeDX Token List
+## A data-rich token list powered by PokeDX !
 **Real-time, accurate and up-to-date information.** The repository will eventually contain token info from several blockchains, info on dApps etc. For every token a logo and optional additional information is available (such data is not available on-chain).
 
-✅ BullTools and Bullboard uses data from this source<br>
+✅ PokeDX and Bullboard uses data from this source<br>
 ✅ Other projects can pull data from this source free of charge
 
 ### What info is supported?
@@ -49,26 +49,27 @@ logo.png (recommended size 256x256px / 512x512px, max file size: 100kB)
 
 ```
 {
-    "name": "BullTools",
-    "website": "https://bulltools.app/",
-    "telegram": "https://t.me/bulltools",
-    "instagram": "https://instagram.com/bulltools.app",
-    "twitter": "https://twitter.com/therealbullish",
-    "description": "Trading, monitoring and portfolio management dapp for BSC. Powered by the BULLISH token.",
-    "explorer": "https://bscscan.com/token/0x000000000000000000000000000000COMINGSOON",
+    "name": "PokeDX",
+    "website": "https://www.pokedx.app/",
+    "telegram": "https://t.me/dextalks/",
+    "instagram": "https://www.instagram.com/pokedxapp/",
+    "twitter": "https://twitter.com/pokedxapp/",
+    "description": "This will be updated",
+    "explorer": "https://explorer.bitquery.io/bsc/token/0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
     "type": "BEP20",
-    "symbol": "BULLISH",
+    "symbol": "PDX",
     "decimals": 9,
-    "slippage": 6,
+    "slippage": 5,
     "status": "active",
-    "id": "0x000000000000000000000000000000COMINGSOON"
+		"thandle": "pokedxapp",
+    "id": "0x43a0c5eb1763a211aa3c05849a617f2ee0452767"
 }
 ```
 
 **Rules**<br>
-Alerts in JSON are not accepted. Only Bulltools is permitted to add alerts to tokens.
+Alerts in JSON are not accepted. Only PokeDX is permitted to add alerts to tokens.
 
 ### Disclaimer
-BullTools allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
+PokeDX allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
 
-We will reject projects that are deemed as scam or fraudulent after careful review. BullTools team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+We will reject projects that are deemed as scam or fraudulent after careful review. PokeDX team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
