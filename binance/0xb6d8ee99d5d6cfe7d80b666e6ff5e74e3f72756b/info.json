@@ -1,0 +1,16 @@
+{
+    "name": "Binance Multi-Chain Capital",
+    "website": "https://bmcc.finance/",
+    "telegram": "https://t.me/BINANCEMCC/",
+    "instagram": "",
+    "twitter": "https://twitter.com/binancemcc/",
+    "description": "BMCC based on MCC philosophy of investing in strongest yields but on multichains. The team is building an infrastructure of investing in the most lucrative farms, staking and L/P across all blockchain L1 networks. Original coding, proper product development and regular reporting on each stage on buybacks, yield farming and other financial models.",
+    "explorer": "https://explorer.bitquery.io/bsc/token/0xb6d8ee99d5d6cfe7d80b666e6ff5e74e3f72756b",
+    "type": "BEP20",
+    "symbol": "BMCC",
+    "decimals": 9,
+    "slippage": 15,
+    "status": "active",
+        "thandle": "binancemcc",
+    "id": "0xb6d8ee99d5d6cfe7d80b666e6ff5e74e3f72756b"
+}
