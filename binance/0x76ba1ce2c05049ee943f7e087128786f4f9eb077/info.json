@@ -1,0 +1,17 @@
+{
+    "name": "Bang Decentralized",
+    "website": "https://bangcrypto.io//",
+    "telegram": "https://t.me/BANGcrypto_io/",
+    "instagram": "https://www.instagram.com/bang.crypto.gaming/",
+    "twitter": "https://twitter.com/BangCrypto_/",
+    "reddit": "https://www.reddit.com/r/BANGcrypto/",
+    "description": "BANG Decentralized, a very powerful token with multiple use cases. Bringing crypto enthusiasts and gamers together, in a virtual world, where we can invest and play together as a community.",
+    "explorer": "https://www.dextools.io/app/bsc/pair-explorer/0xf1916e61f5aedd44420340db274d5b7cc79ddd95",
+    "type": "BEP20",
+    "symbol": "BANG",
+    "decimals": 9,
+    "slippage": 9,
+    "status": "active",
+        "thandle": "BANG",
+    "id": "0xf1916e61f5aedd44420340db274d5b7cc79ddd95"
+}
