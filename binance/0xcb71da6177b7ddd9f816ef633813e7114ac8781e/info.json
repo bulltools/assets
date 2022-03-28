@@ -1,0 +1,16 @@
+{
+  "name": "Alpha3 Capital",
+  "website": "https://alpha3.capital/",
+  "telegram": "https://t.me/alpha3capital/",
+  "instagram": "",
+  "twitter": "https://twitter.com/alpha3capital/",
+  "description": "In simple terms, you buy on Binance Smart Chain, we farm and invest on multiple chains and return the profits to $ATC holders",
+  "explorer": "https://explorer.bitquery.io/bsc/token/0xcb71da6177b7ddd9f816ef633813e7114ac8781e",
+  "type": "BEP20",
+  "symbol": "ATC",
+  "decimals": 9,
+  "slippage": 5,
+  "status": "active",
+  "thandle": "alpha3capital",
+  "id": "0xcb71da6177b7ddd9f816ef633813e7114ac8781e"
+}
